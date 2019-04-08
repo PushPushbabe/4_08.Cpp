@@ -134,6 +134,8 @@
     <ClCompile Include="13-9.cpp" />
     <ClCompile Include="14-1.cpp" />
     <ClCompile Include="14-2.cpp" />
+    <ClCompile Include="14-3.cpp" />
+    <ClCompile Include="14-4.cpp" />
     <ClCompile Include="exercise_virtual class.cpp" />
     <ClCompile Include="test_1.cpp" />
     <ClCompile Include="test_13_1.cpp" />
